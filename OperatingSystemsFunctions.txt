@@ -1,5 +1,9 @@
 function memoryManagement(){
-  console.log("One function of an Operating system(OS) is to manage memory usage. The OS will allocate RAM resources to run programs.")
-  console.log("The operating system can also assign virtual memory. Virtual memory is when the OS saves a temporary file on the hard disk to make space in the computer's RAM.")
-}
+  console.log("One function of an Operating system(OS) is to manage memory usage. The OS will allocate RAM resources to run programs. The operating system can also assign virtual memory. Virtual memory is when the OS saves a temporary file on the hard disk to make space in the computer's RAM.");
+  }
 memoryManagement()
+
+function makeUserInterface(){
+  console.log("Another function of an operating system is to create a user interface. A user interface is how a person interacts with a computer. Some operating systems run off of a command line, and most computers have easy acces to theirs. Others generate a Graphical User Interface called GUI (pronounced "gooey") for short.");
+  }
+makeUserInterface()
